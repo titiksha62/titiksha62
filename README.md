@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,firebase,py,streamlit,git,github,postman,vscode,gcp,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,firebase,py,streamlit,git,github,postman,vscode,gcp,figma" />
 </p>
 
 ---
