@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## ✅ Titiksha's Fully Styled GitHub Profile README
-
-Just copy and paste the whole thing below into your `README.md` file in the `titiksha62` repo:
-
-
 <h1 align="center">Hey 👋, I’m Titiksha Bhavsar</h1>
 <p align="center">A developer-in-progress who loves building things that make life easier, smarter, or just more fun.</p>
 
