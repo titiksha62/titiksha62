@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ---
-
+<!--
 ## 🚀 Project I’m Proud Of
 
 🔗 [**Chat with PDF**](https://chatwithpdf-9xdutfpqeazde2yemqm5pj.streamlit.app)  
@@ -57,6 +57,7 @@ Here are some ideas to get you started:
 → [GitHub Repo](https://github.com/titiksha62/Chat_with_PDF)
 
 ---
+-->
 
 ## 💬 Let’s Connect!
 
