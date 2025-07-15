@@ -14,42 +14,103 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey, I’m Titiksha 👋</h1>
-<p align="center">Final-year Computer Engineering student | Developer | Tech Explorer</p>
+
+## ✅ Titiksha's Fully Styled GitHub Profile README
+
+Just copy and paste the whole thing below into your `README.md` file in the `titiksha62` repo:
+
+
+<h1 align="center">Hey 👋, I’m Titiksha Bhavsar</h1>
+<p align="center">A developer-in-progress who loves building things that make life easier, smarter, or just more fun.</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76161&center=true&vCenter=true&width=440&lines=React+%7C+Node.js+%7C+LangChain+%7C+OpenAI;Learning+by+building+things+I+actually+use!;Always+curious.+Always+shipping." />
+</div>
 
 ---
 
-### 🧭 A Little About Me
+## 🧭 About Me
+```
 
-- 🎓 Final year Student, diving deep into code and curiosity
-- 💬 Currently learning & building with React, Node.js, LangChain, and LLM tools
-- 🧪 Into practical AI, problem-solving apps, and tools that simplify digital clutter
-- 🔁 Always iterating — on projects, skills, and life
+🎓 Final-year student, exploring code, AI, and everything in between
+💬 Currently learning React, Node.js, LangChain, and LLM tools
+🧠 I like building tools that simplify chaotic digital lives
+🔁 Always iterating — projects, mindset, and skills
+
+```
+---
+
+## ⚙️ Tech Stack I Work With
+
+### 🖥️ Frontend  
+`React` `TailwindCSS` `HTML` `CSS` `JavaScript`
+
+### ⚙️ Backend  
+`Node.js` `Express.js` `MongoDB` `Firebase` `MySQL`
+
+### 🧠 AI / ML  
+`LangChain` `OpenAI API` `Scikit-learn` `Streamlit` `Python`
+
+### ☁️ DevOps & Cloud  
+`Google Cloud` `Railway` `Render` `Streamlit Cloud`
+
+### 🛠️ Tools  
+`Git` `GitHub` `VS Code` `Postman` `Figma`
 
 ---
 
-### ⚒️ Tools I’ve Got My Hands On
+## 🔍 What I'm Exploring Right Now
 
-**Languages:** JavaScript, Python, Java, C, C++  
-**Web Dev:** React, Node.js, Express, Tailwind, Firebase, MongoDB  
-**AI/ML:** LangChain, OpenAI APIs, Scikit-learn, Streamlit  
-**Tools & Cloud:** Git, GitHub, Postman, VS Code, GCP, Railway
+🤖 How to build AI tools that are genuinely useful
+📦 MLOps and deployment for LLM-based apps
+🧹 Cleaning and organizing messy data
+🚀 Making full-stack apps that survive refreshes
 
----
-### 🔍 What I’m Exploring Right Now
-
-- How to make AI tools that actually help people
-- Cleaning messy data (and making it do cool things)
-- Deploying full-stack apps that don’t break when I refresh 😅
 
 ---
 
-### 📬 Let's Connect
+## 🚀 Project I’m Proud Of
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/titikshabhavsar/) 
-📫 titikshabhavsar@gmail.com  
+🔗 [**Chat with PDF**](https://chatwithpdf-9xdutfpqeazde2yemqm5pj.streamlit.app)  
+> Upload a PDF. Ask questions. Get smart, contextual answers.  
+> LangChain + OpenAI + Streamlit + FAISS  
+→ [GitHub Repo](https://github.com/titiksha62/Chat_with_PDF)
 
 ---
 
-> *“If it sparks curiosity, I’ll probably try building it.”.*  
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=titiksha62&theme=radical&margin-w=10&row=1" />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://github.com/titiksha62/titiksha62/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💬 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/titikshabhavsar)  
+📫 titikshabhavsar@gmail.com
+
+---
+
+## 🧠 Quote I Actually Like
+> *“If it sparks curiosity, I’ll probably try building it.”*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+```
+
+
+
 
