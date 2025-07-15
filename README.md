@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ---
 
-> ##*“If it sparks curiosity, I’ll probably try building it.”*
+## “If it sparks curiosity, I’ll probably try building it.”
 
 ---
 
