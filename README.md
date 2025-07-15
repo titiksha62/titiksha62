@@ -24,37 +24,23 @@ Here are some ideas to get you started:
 ---
 
 ## 🧭 About Me
-```
-
 🎓 Final-year student, exploring code, AI, and everything in between
 💬 Currently learning React, Node.js, LangChain, and LLM tools
 🧠 I like building tools that simplify chaotic digital lives
 🔁 Always iterating — projects, mindset, and skills
 
-```
+
 ---
 
-## ⚙️ Tech Stack I Work With
+## ⚙️ Tech Stack
 
-### 🖥️ Frontend  
-`React` `TailwindCSS` `HTML` `CSS` `JavaScript`
-
-### ⚙️ Backend  
-`Node.js` `Express.js` `MongoDB` `Firebase` `MySQL`
-
-### 🧠 AI / ML  
-`LangChain` `OpenAI API` `Scikit-learn` `Streamlit` `Python`
-
-### ☁️ DevOps & Cloud  
-`Google Cloud` `Railway` `Render` `Streamlit Cloud`
-
-### 🛠️ Tools  
-`Git` `GitHub` `VS Code` `Postman` `Figma`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,firebase,py,streamlit,git,github,postman,vscode,gcp,figma&perline=8" />
+</p>
 
 ---
 
 ## 🔍 What I'm Exploring Right Now
-
 🤖 How to build AI tools that are genuinely useful
 📦 MLOps and deployment for LLM-based apps
 🧹 Cleaning and organizing messy data
@@ -69,22 +55,6 @@ Here are some ideas to get you started:
 > Upload a PDF. Ask questions. Get smart, contextual answers.  
 > LangChain + OpenAI + Streamlit + FAISS  
 → [GitHub Repo](https://github.com/titiksha62/Chat_with_PDF)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=titiksha62&theme=radical&margin-w=10&row=1" />
-</p>
-
----
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://github.com/titiksha62/titiksha62/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
@@ -103,8 +73,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```
-
 
 
 
