@@ -1,10 +1,8 @@
-Hi, I’m Titiksha 👋  
-Final-year student exploring full-stack and AI tools.  
-I learn by building practical, useful projects.
-
-Currently curious about:
-- AI-powered apps
-- LLM workflows
-- Making messy data usable
+hi, i'm titiksha 👋
+CS grad by degree, work in progress by default.
+Building things, learning things, breaking things, and occasionally wondering how everyone seems to know so much.
+Trying to catch up with everything I want to learn, one rabbit hole at a time.
+build → break → debug → learn → repeat
+Always curious. Still figuring it out.
 
 📫 linkedin.com/in/titikshabhavsar
