@@ -12,10 +12,4 @@ Always curious. Still figuring it out.
 
 ---
 
-### 🎧 currently playing
-
-[listen on Spotify ↗](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA)
-
----
-
 📫 [linkedin](https://linkedin.com/in/titikshabhavsar)
