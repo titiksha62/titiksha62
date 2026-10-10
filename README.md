@@ -2,13 +2,13 @@
 
 CS grad by degree, work in progress by default.
 
-Building things, learning things, breaking things, and occasionally wondering how everyone seems to know so much.
+Building, learning and breaking things.
 
 Trying to catch up with everything I want to learn, one rabbit hole at a time.
 
 `build → break → debug → learn → repeat`
 
-Always curious. Still figuring it out.
+Always curious. Figuring it out.
 
 ---
 
